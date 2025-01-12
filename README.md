@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python & cyber security**
 
-- 💬 Ask me about **Hi, I’m Shahadat Sany with a passion for coding and cyber field. My professional journey has equipped me with extensive experience in cyber security. I have also worked in SEO for the past two years,Worked on malware and security past 3 years running. Besides my education I have been working with programming languages ​​and cyber security for several years. And trying to learn new something.**
+- 💬 Ask me about **Hi, I’m Shahadat Sany with a passion for coding and cyber field. My professional journey has equipped me with extensive experience in cyber security. I have also worked in SEO for the past two years,Worked on malware and security past three years running. Besides my education I have been working with programming languages ​​and cyber security for several years. And trying to learn new something.**
 
 - ⚡ Fun fact **Bindash**
 
